@@ -1,18 +1,18 @@
-Enhanced Multi-Page Form
+#Enhanced Multi-Page Form
 
 A multi-step form built using HTML, CSS, and JavaScript. This form collects user information across multiple steps and displays a summary before submission.
 
-Features
+#Features
 
-Multi-step navigation with Next and Previous buttons
+-Multi-step navigation with Next and Previous buttons
 
-Real-time validation for required fields
+-Real-time validation for required fields
 
-Password and confirm password matching
+-Password and confirm password matching
 
-Summary of entered data before final submission
+-Summary of entered data before final submission
 
-Responsive and clean design
+-Responsive and clean design
 
 
 Fill in Step 1: Personal information.
@@ -23,7 +23,7 @@ Click Next to proceed to Step 3: Review summary.
 
 Click Submit to complete the form.
 
-Technologies
+#Technologies
 
 HTML5
 
@@ -31,6 +31,3 @@ CSS3
 
 JavaScript
 
-License
-
-MIT License
